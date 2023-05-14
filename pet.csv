@@ -1,0 +1,41 @@
+Tax ID,Microorganism,Enzyme,Plastic,Enzyme
+300,Pseudomonas mendocina,Cutinase,PET,Cutinase
+301,Pseudomonas oleovorans,Cutinase,PET,Cutinase
+470,Acinetobacter baumannii,No,PET,No
+687,Vibrio gazogenes,PETase,PET,PETase
+1396,Bacillus cereus,No,PET,No
+1423,Bacillus subtilis,P-nitrobenzylesterase,PET,P-nitrobenzylesterase
+1852,Saccharomonospora viridis,Cutinase,PET,Cutinase
+2020,Thermomonospora curvata,Triacylglycerol lipase,PET,Triacylglycerol lipase
+2020,Thermomonospora curvata,Hydrolase,PET,Hydrolase
+2021,Thermobifida fusca,Hydrolase,PET,Hydrolase
+2021,Thermobifida fusca,Cutinase,PET,Cutinase
+2021,Thermobifida fusca,,PET,
+53522,Thermobifida alba,,PET,
+53522,Thermobifida alba,Cutinase,PET,Cutinase
+77133,Uncultured bacterium,Cutinase,PET,Cutinase
+77133,Uncultured bacterium,Polyester hydrolase,PET,Polyester hydrolase
+77133,Uncultured bacterium,Hydrolase,PET,Hydrolase
+77133,Uncultured bacterium,,PET,
+77133,Uncultured bacterium,PETase,PET,PETase
+95161,Saccharopolyspora flava,,PET,
+144786,Thermobifida cellulosilytica,Cutinase,PET,Cutinase
+144786,Thermobifida cellulosilytica,,PET,
+188908,Oleispira antarctica,PETase,PET,PETase
+266749,Kaistella jeonii,Esterase,PET,Esterase
+273677,Microbacterium oleivorans,No,PET,No
+307483,Caldimonas taiwanensis,,PET,
+413882,Polyangium brachysporum,PETase,PET,PETase
+413882,Polyangium brachysporum,Triacylglycerol lipase,PET,Triacylglycerol lipase
+483545,Thermobifida halotolerans,,PET,
+483545,Thermobifida halotolerans,Serine hydrolase,PET,Serine hydrolase
+531310,Marinactinospora thermotolerans,,PET,
+553151,Halopseudomonas pelagia,Lipase,PET,Lipase
+857252,Pseudomonas aestusnigri,Polyester hydrolase,PET,Polyester hydrolase
+859144,Bacillus gottheilii,No,PET,No
+946333,Rhizobacter gummiphilus,Hydrolase,PET,Hydrolase
+1547922,Ideonella sakaiensis,MHETase,PET,MHETase
+1547922,Ideonella sakaiensis,PETase,PET,PETase
+1871072,Nocardioidaceae bacterium,,PET,
+1873464,Micromonosporaceae bacterium,,PET,
+1917421,Ketobacter alkanivorans,,PET,

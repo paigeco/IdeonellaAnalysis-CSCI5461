@@ -1,0 +1,129 @@
+Tax ID,Microorganism,Enzyme,Plastic
+287,Pseudomonas aeruginosa,No,PS
+287,Pseudomonas aeruginosa,No,PE
+287,Pseudomonas aeruginosa,No,LDPE
+287,Pseudomonas aeruginosa,No,PVC Blend
+287,Pseudomonas aeruginosa,,LDPE
+287,Pseudomonas aeruginosa,No,HDPE
+293,Brevundimonas diminuta,No,PS
+294,Pseudomonas fluorescens,No,LDPE
+294,Pseudomonas fluorescens,No,HDPE
+303,Pseudomonas putida,No,LDPE
+303,Pseudomonas putida,No,PS
+316,Stutzerimonas stutzeri,No,PE
+317,Pseudomonas syringae,No,LDPE
+470,Acinetobacter baumannii,No,LDPE
+573,Klebsiella pneumoniae,No,HDPE
+615,Serratia marcescens,No,LDPE
+615,Serratia marcescens,No,HDPE
+663,Vibrio alginolyticus,No,LLDPE Blend
+670,Vibrio parahaemolyticus,No,LLDPE Blend
+1270,Micrococcus luteus,No,LDPE
+1273,Micrococcus lylae,No,LDPE
+1282,Staphylococcus epidermidis,No,LDPE
+1288,Staphylococcus xylosus,No,LDPE
+1390,Bacillus amyloliquefaciens,No,LDPE
+1390,Bacillus amyloliquefaciens,No,HDPE
+1390,Bacillus amyloliquefaciens,No,PE
+1391,Aneurinibacillus aneurinilyticus,No,HDPE
+1391,Aneurinibacillus aneurinilyticus,No,LDPE
+1393,Brevibacillus brevis,No,HDPE
+1393,Brevibacillus brevis,No,LDPE
+1396,Bacillus cereus,No,LDPE
+1396,Bacillus cereus,No,HDPE
+1396,Bacillus cereus,No,PS
+1396,Bacillus cereus,No,PC
+1396,Bacillus cereus,No,PE
+1396,Bacillus cereus,No,Nylon
+1397,Niallia circulans,No,LDPE
+1402,Bacillus licheniformis,No,HDPE
+1402,Bacillus licheniformis,No,LDPE
+1402,Bacillus licheniformis,No,PS
+1402,Bacillus licheniformis,,PVC
+1402,Bacillus licheniformis,,PE
+1404,Priestia megaterium,No,PC
+1405,Bacillus mycoides,No,LDPE
+1408,Bacillus pumilus,No,LDPE
+1408,Bacillus pumilus,No,HDPE
+1421,Lysinibacillus sphaericus,No,PE
+1421,Bacillus sphericus,No,Nylon
+1423,Bacillus subtilis,No,PE
+1423,Bacillus subtilis,No,LDPE
+1423,Bacillus subtilis,No,HDPE
+1428,Bacillus thuringiensis,No,LDPE
+1482,Virgibacillus halodenitrificans,No,LDPE
+1673,Rhizobium viscosum,No,LDPE
+1824,Nocardia asteroides,No,PE
+1829,Rhodococcus rhodochrous,No,PE
+1829,Rhodococcus rhodochrous,No,LLDPE
+1830,Rhodococcus ruber,Laccase,PE
+1830,Rhodococcus ruber,No,PS
+1830,Rhodococcus ruber,Laccase,LDPE
+1830,Rhodococcus ruber,No,PE
+1833,Rhodococcus erythropolis,No,LDPE
+1887,Streptomyces albogriseolus,No,PE
+1911,Streptomyces griseus,No,PE Blend
+1911,Streptomyces griseus,No,LDPE Blend
+1941,Streptomyces badius,No,PE Blend
+1941,Streptomyces badius,No,LDPE Blend
+28031,Lysinibacillus fusiformis,No,PE
+28454,Sphingobacterium multivorum,No,LDPE
+29382,Staphylococcus cohnii,No,LDPE
+29494,Vibrio furnisii,No,Nylon
+33938,Geobacillus thermocatenulatus,No,Nylon
+34038,Rahnella aquatilis,No,LDPE
+35703,Citrobacter amalonaticus,No,LDPE
+37329,Nocardia farcinica,Polyamidase,Nylon
+37931,Paenarthrobacter ureafaciens,Hydrolase,Nylon
+40214,Acinetobacter johnsonii,Alkane-1 monooxygenase,PS
+40324,Stenotrophomonas maltophilia,,LDPE
+40324,Stenotrophomonas maltophilia,No,LDPE
+41276,Brevundimonas vesicularis,No,Nylon
+44252,Paenibacillus macerans,No,LDPE
+45462,Brevibacillus borstelensis,No,LDPE
+45462,Brevibacillus borstelensis,No,HDPE
+48296,Acinetobacter pittii,No,LDPE
+51101,Brevibacillus agri,No,LDPE
+51101,Brevibacillus agri,No,HDPE
+53408,Pseudomonas citronellolis,No,PVC
+53408,Pseudomonas citronellolis,No,LDPE
+54914,Brevibacillus parabrevis,No,LDPE
+59754,Alcanivorax borkumensis,No,LDPE
+61645,Enterobacter asburiae,No,LDPE
+67581,Streptomyces viridosporus,No,LDPE Blend
+67581,Streptomyces viridosporus,No,PE Blend
+67826,Citrobacter sedlakii,No,PS
+71999,Kocuria palustris,No,LDPE
+72361,Bacillus vallismortis,No,LDPE
+72361,Bacillus vallismortis,No,HDPE
+76759,Pseudomonas monteilii,No,LDPE
+85698,Achromobacter xylosoxidans,No,HDPE
+85698,Achromobacter xylosoxidans,,PVC
+85698,Achromobacter xylosoxidans,,PE
+85698,Achromobacter xylosoxidans,,LDPE
+86664,Bacillus flexus,No,PVC
+94625,Ochrobactrum intermedium,No,LDPE
+106590,Cupriavidus necator,No,LDPE
+163011,Pseudomonas lini,No,PS
+169177,Exiguobacterium undae,No,PS
+180282,Delftia tsuruhatensis,No,LDPE
+197461,Nesiotobacter exalbescens,No,LDPE
+199592,Microbacterium paraoxydans,No,LDPE
+218284,Bacillus vietnamensis,No,LDPE
+292806,Ureibacillus massiliensis,No,PS
+292806,Ureibacillus massiliensis,No,LDPE
+332410,Exiguobacterium sibiricum,No,PS
+335286,Ochrobactrum oryzae,No,LDPE
+380021,Pseudomonas protegens,No,HDPE
+380021,Pseudomonas protegens,No,LDPE
+405444,Stenotrophomonas humi,No,LDPE
+412384,Bacillus aryabhattai,No,HDPE
+521520,Paenibacillus urinalis,No,PS
+582475,Lysinibacillus xylanilyticus,,LDPE
+582475,Lysinibacillus xylanilyticus,No,LDPE
+587753,Pseudomonas chlororaphis,No,LDPE
+676599,Stenotrophomonas panacihumi,No,PE
+693231,Phormidium lucidum,Laccase and manganese peroxidase,LDPE
+859144,Bacillus gottheilii,No,PS
+859144,Bacillus gottheilii,No,PE
+1136066,Oscillatoria subbrevis,Laccase and manganese peroxidase,LDPE
